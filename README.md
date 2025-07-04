@@ -22,9 +22,8 @@ This project showcases how to extract structured data from unstructured invoice 
 
 - **Python 3.x**
 - **Streamlit** – for UI
-- **Tesseract OCR** / **Donut / LayoutLMv3** (based on your implementation)
 - **Pandas / JSON** – for data formatting
-- **OpenCV / PIL** – image handling (if applicable)
+  
 
 ---
 
