@@ -33,6 +33,7 @@ This project showcases how to extract structured data from unstructured invoice 
 1. Clone the repository:
 
 git clone https://github.com/chandni704/Invoice_Extraction.git
+
 cd Invoice_Extraction
 
 
