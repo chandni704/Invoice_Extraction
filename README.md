@@ -14,3 +14,36 @@ This project showcases how to extract structured data from unstructured invoice 
 
 ---
 
+
+---
+
+
+## 🛠️ Tech Stack
+
+- **Python 3.x**
+- **Streamlit** – for UI
+- **Tesseract OCR** / **Donut / LayoutLMv3** (based on your implementation)
+- **Pandas / JSON** – for data formatting
+- **OpenCV / PIL** – image handling (if applicable)
+
+---
+
+## 🧪 How to Run
+
+1. Clone the repository:
+
+git clone https://github.com/chandni704/Invoice_Extraction.git
+cd Invoice_Extraction
+
+
+2. Install dependencies:
+
+pip install -r requirements.txt
+
+3. Run the Streamlit app:
+
+streamlit run app.py
+
+
+
+
